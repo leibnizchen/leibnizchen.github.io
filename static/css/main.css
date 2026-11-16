@@ -262,3 +262,32 @@ section .main-body {
         animation: none;
     }
 }
+
+/* ===== Mobile typography fixes ===== */
+@media (max-width: 991px) {
+    /* 关键：取消两端对齐，消除中文字间距过大 */
+    section .main-body {
+        text-align: left;
+        font-size: 1.05rem;
+        line-height: 1.9;
+        letter-spacing: normal;
+        word-spacing: normal;
+        overflow-wrap: break-word;
+        word-break: break-word;
+    }
+
+    section header h2 {
+        font-size: 1.8rem;
+        line-height: 2.6rem;
+    }
+
+    .top-section {
+        padding: 7rem 0;
+        height: 20rem;
+    }
+
+    .container {
+        padding-left: 1rem;
+        padding-right: 1rem;
+    }
+}
