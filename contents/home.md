@@ -28,9 +28,8 @@ Research Group: Computer Vision and Depth Estimation
 
 B.Eng. in Computer Science and Technology  
 **Wuyi University**, September 2015 – June 2019  
-Faculty of Intelligent Manufacturing  
-Advisor: Prof. Wangchun Jin  
-Research Group: Image Processing and Computer Vision
+Faculty of Intelligent Manufacturing   
+Research Group: Software Development
 
 
 #### Research Interests
