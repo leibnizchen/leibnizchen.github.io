@@ -24,8 +24,8 @@ Guangxi University, September 2020 – June 2023
 School of Electronic Information and Computer Science  
 Advisor: Prof. Zhengyou Liang  
 Research Group: Computer Vision and Depth Estimation
-B.Eng. in Computer Science and Technology  
 
+B.Eng. in Computer Science and Technology  
 Wuyi University, September 2015 – June 2019  
 Faculty of Intelligent Manufacturing  
 Advisor: Prof. Wangchun Jin  
@@ -34,14 +34,11 @@ Research Group: Image Processing and Computer Vision
 
 #### Research Interests
 
-Large Language Model Training and Optimization; LLM Alignment; Parameter-Efficient Fine-Tuning; Automated LLM Evaluation; Retrieval-Augmented Generation (RAG); AI Agents; AI in Education; Contrastive Learning.
-
+Large Language Model Training and Optimization; LLM Alignment; Parameter-Efficient Fine-Tuning; Automated LLM Evaluation; Retrieval-Augmented Generation (RAG); AI Agents; AI in Education
 
 #### Technical Skills
 
-Large Language Models: Transformer, Decoder-only LLMs, Attention, SFT, LoRA/QLoRA, Prompt Engineering, RAG, AI Agents, LLM-as-Judge, automated LLM evaluation; familiar with RLHF, DPO, and PPO.
-Training & Inference: PyTorch, Hugging Face Transformers, PEFT, TRL, Accelerate, vLLM; data construction, fine-tuning, experimental design, ablation studies, evaluation, and deployment.
+Large Language Models:  SFT, LoRA/QLoRA, Prompt Engineering, RAG, AI Agents, LLM-as-Judge, automated LLM evaluation; familiar with RLHF, DPO, and PPO.
 Representation Learning & NLP: Contrastive Learning, InfoNCE, Representation Learning, semantic matching, text classification, and automatic answer grading.
-Programming & Engineering: Python, C/C++, Linux, OpenCV, OpenGL, STL, sockets, and multithreaded programming.
 
 
