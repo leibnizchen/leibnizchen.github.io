@@ -1,6 +1,7 @@
 
+[![leibnizchen](https://img.shields.io/badge/leibnizchen-github-blue?logo=github)](https://github.com/leibnizchen)
 
-[![leibniz]](https://github.com/leibnizchen)
+
 
 I am a Ph.D. candidate in Computer Application Technology at Jinan University, focusing on large language model training and optimization, LLM alignment, automated evaluation, parameter-efficient fine-tuning, and AI-powered education. My research combines methodological exploration with practical engineering, covering the development pipeline from data construction and model fine-tuning to evaluation and inference deployment.
 
@@ -14,19 +15,19 @@ Email: leibnizchen@foxmail.com
 #### Education
 
 Ph.D. in Computer Application Technology  
-<strong>Jinan University</strong>, September 2024 – June 2027 (Expected)  
+**Jinan University**, September 2024 – June 2027 (Expected)  
 School of Information Science and Technology  
 Advisor: Prof. Zitao Liu  
 Research Group: Zitao Liu's Research Group (Large Language Models and AI in Education)
 
 M.Eng. in Computer Technology  
-<strong>Guangxi University</strong>, September 2020 – June 2023  
+**Guangxi University**, September 2020 – June 2023  
 School of Electronic Information and Computer Science  
 Advisor: Prof. Zhengyou Liang  
 Research Group: Computer Vision and Depth Estimation
 
 B.Eng. in Computer Science and Technology  
-<strong>Wuyi University</strong>, September 2015 – June 2019  
+**Wuyi University**, September 2015 – June 2019  
 Faculty of Intelligent Manufacturing  
 Advisor: Prof. Wangchun Jin  
 Research Group: Image Processing and Computer Vision
