@@ -2,25 +2,46 @@
 
 [![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
 
-He is a Ph.D. student in the Department of Earth and Planetary Sciences (EPS) at Harvard University, advised by Prof. Mostafa Mousavi. His research focuses on developing machine learning and foundation-model approaches for seismic signal processing, earthquake monitoring, and related geophysical applications.
+I am a Ph.D. candidate in Computer Application Technology at Jinan University, focusing on large language model training and optimization, LLM alignment, automated evaluation, parameter-efficient fine-tuning, and AI-powered education. My research combines methodological exploration with practical engineering, covering the development pipeline from data construction and model fine-tuning to evaluation and inference deployment.
+
 
 
 #### Contact
 
-Email: senli[at]fas.harvard.edu
+Email: leibnizchen@foxmail.com
 
 
 #### Education
 
-Ph.D. in Earth and Planetary Sciences,
-Harvard University, 2026—Present
+Ph.D. in Computer Application Technology  
+Jinan University, September 2024 – June 2027 (Expected)  
+School of Information Science and Technology  
+Advisor: Prof. Zitao Liu  
+Research Group: Zitao Liu's Research Group (Large Language Models and AI in Education)
 
-M.E. in Computer Science and Technology,
-China University of Mining and Technology, 2022—2025
+M.Eng. in Computer Technology  
+Guangxi University, September 2020 – June 2023  
+School of Electronic Information and Computer Science  
+Advisor: Prof. Zhengyou Liang  
+Research Group: Computer Vision and Depth Estimation
+B.Eng. in Computer Science and Technology  
 
-B.E. in Data Science and Big Data Technology,
-China University of Mining and Technology, 2018–2022
+Wuyi University, September 2015 – June 2019  
+Faculty of Intelligent Manufacturing  
+Advisor: Prof. Wangchun Jin  
+Research Group: Image Processing and Computer Vision
 
 
 #### Research Interests
-Machine Learning for Seismology; Foundation Model; Observational Seismology; Microseismic Monitoring
+
+Large Language Model Training and Optimization; LLM Alignment; Parameter-Efficient Fine-Tuning; Automated LLM Evaluation; Retrieval-Augmented Generation (RAG); AI Agents; AI in Education; Contrastive Learning.
+
+
+#### Technical Skills
+
+Large Language Models: Transformer, Decoder-only LLMs, Attention, SFT, LoRA/QLoRA, Prompt Engineering, RAG, AI Agents, LLM-as-Judge, automated LLM evaluation; familiar with RLHF, DPO, and PPO.
+Training & Inference: PyTorch, Hugging Face Transformers, PEFT, TRL, Accelerate, vLLM; data construction, fine-tuning, experimental design, ablation studies, evaluation, and deployment.
+Representation Learning & NLP: Contrastive Learning, InfoNCE, Representation Learning, semantic matching, text classification, and automatic answer grading.
+Programming & Engineering: Python, C/C++, Linux, OpenCV, OpenGL, STL, sockets, and multithreaded programming.
+
+
