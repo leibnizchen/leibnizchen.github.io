@@ -18,18 +18,18 @@ Ph.D. in Computer Application Technology
 **Jinan University**, September 2024 – June 2027 (Expected)  
 School of Information Science and Technology  
 Advisor: Prof. Zitao Liu  
-Research Group: Zitao Liu's Research Group (Large Language Models and AI in Education)
+Research Areas: Large Language Models and AI in Education
 
 M.Eng. in Computer Technology  
 **Guangxi University**, September 2020 – June 2023  
 School of Electronic Information and Computer Science  
 Advisor: Prof. Zhengyou Liang  
-Research Group: Computer Vision and Depth Estimation
+Research Areas: Computer Vision and Depth Estimation
 
 B.Eng. in Computer Science and Technology  
 **Wuyi University**, September 2015 – June 2019  
 Faculty of Intelligent Manufacturing   
-Research Group: Software Development
+Research Areas: Software Development
 
 
 #### Research Interests
